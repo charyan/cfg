@@ -2,7 +2,7 @@
 :set number
 :syntax on
 :set ruler
-set showcmd
+:set showcmd
 :set autoindent
 :set tabstop=4
 
