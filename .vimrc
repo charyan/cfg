@@ -13,6 +13,8 @@
 :augroup END
 
 :map <F2> <Esc>:! make <Enter>
+:map <F3> <Esc>:! make debug <Enter>
+:map <F5> <Esc>:vert term<Enter><C-w><Right><C-w>r<C-w><Right>
 
 inoremap [ []<left>
 inoremap { {}<left>
