@@ -1,0 +1,55 @@
+# Fonts
+adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
+adobe-source-han-sans-otc-fonts 2.004-1
+adobe-source-han-serif-otc-fonts 2.001-2
+adobe-source-sans-fonts 3.046-1
+adobe-source-serif-fonts 4.004-2
+noto-fonts 20220810-1
+noto-fonts-cjk 20220126-1
+noto-fonts-emoji 20220920-1
+noto-fonts-extra 20220810-1
+
+# Dev
+clang 14.0.6-3
+cmake 3.24.2-1
+gcc 12.2.0-1
+gdb 12.1-1
+git 2.38.0-1
+sdl12-compat 1.2.56-1
+sdl2 2.24.1-1
+sdl2_image 2.6.2-2
+sdl2_mixer 2.6.2-1
+sdl2_net 1:2.2.0-1
+sdl2_ttf 2.20.1-1
+make 4.3-3
+
+# Networking
+dhcpcd 9.4.1-1
+networkmanager 1.40.0-1
+openssh 9.1p1-1
+wpa_supplicant 2:2.10-5
+
+# System
+apparmor 3.1.1-1
+man-db 2.10.2-1
+man-pages 6.00-1
+
+
+# Others
+docker 1:20.10.19-1
+dolphin 22.08.2-1
+evince 42.3-2
+firefox 105.0.3-1
+freeplane 1.10.4-1
+geogebra 6.0.735.0-1
+gimp 2.10.32-2
+keepassxc 2.7.1-1
+okular 22.08.2-1
+vim 9.0.0354-1
+virtualbox 6.1.40-1
+virtualbox-guest-iso 6.1.40-1
+virtualbox-host-modules-arch 6.1.40-1
+vlc 3.0.17.4-10
+wireshark-cli 4.0.0-1
+wireshark-qt 4.0.0-1
+
