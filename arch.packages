@@ -34,11 +34,15 @@ apparmor 3.1.1-1
 man-db 2.10.2-1
 man-pages 6.00-1
 
+# DE
+gnome
+gnome-shell-extensions 42.3-1
+gnome-shell-extension-appindicator 46-1
+https://github.com/sunwxg/gnome-shell-extension-unblank
 
 # Others
 docker 1:20.10.19-1
 dolphin 22.08.2-1
-evince 42.3-2
 firefox 105.0.3-1
 freeplane 1.10.4-1
 geogebra 6.0.735.0-1
@@ -50,6 +54,4 @@ virtualbox 6.1.40-1
 virtualbox-guest-iso 6.1.40-1
 virtualbox-host-modules-arch 6.1.40-1
 vlc 3.0.17.4-10
-wireshark-cli 4.0.0-1
-wireshark-qt 4.0.0-1
 
