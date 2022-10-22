@@ -55,3 +55,11 @@ virtualbox-guest-iso 6.1.40-1
 virtualbox-host-modules-arch 6.1.40-1
 vlc 3.0.17.4-10
 
+# AUR
+snapd 2.57.4-1
+unityhub 3.3.0-1
+virtualbox-ext-oracle 6.1.38-1
+yay 11.3.0-1
+powershell 7.2.6-1
+anki-official-binary-bundle 2.1.54-1
+
