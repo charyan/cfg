@@ -27,6 +27,8 @@ sdl2_mixer 2.6.2-1
 sdl2_net 1:2.2.0-1
 sdl2_ttf 2.20.1-1
 make 4.3-3
+clang 14.0.6-4
+git 2.38.1-2
 
 # Networking
 dhcpcd 9.4.1-1
@@ -38,6 +40,8 @@ wpa_supplicant 2:2.10-5
 apparmor 3.1.1-1
 man-db 2.10.2-1
 man-pages 6.00-1
+cifs-utils 7.0-1
+htop 3.2.1-1
 
 # DE
 gnome
@@ -59,6 +63,10 @@ virtualbox 6.1.40-1
 virtualbox-guest-iso 6.1.40-1
 virtualbox-host-modules-arch 6.1.40-1
 vlc 3.0.17.4-10
+helix 22.12-1
+openbsd-netcat 1.219_1-1
+tcpdump 4.99.1-2
+tmux 3.3_a-2
 
 # AUR
 snapd 2.57.4-1
