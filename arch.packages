@@ -67,6 +67,7 @@ helix 22.12-1
 openbsd-netcat 1.219_1-1
 tcpdump 4.99.1-2
 tmux 3.3_a-2
+giac 1.9.0.29-1
 
 # AUR
 snapd 2.57.4-1
